@@ -1,0 +1,12 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"OBJ_character_left","order":2,"path":"objects/OBJ_character_left/OBJ_character_left.yy",},
+    {"name":"wall_sprite","order":3,"path":"sprites/wall_sprite/wall_sprite.yy",},
+    {"name":"environment_design__170423_","order":2,"path":"sprites/environment_design__170423_/environment_design__170423_.yy",},
+    {"name":"character_side_left","order":1,"path":"sprites/character_side_left/character_side_left.yy",},
+    {"name":"OBJ_wall_left","order":3,"path":"objects/OBJ_wall_left/OBJ_wall_left.yy",},
+    {"name":"OBJ_character_right","order":1,"path":"objects/OBJ_character_right/OBJ_character_right.yy",},
+    {"name":"OBJ_wall_right","order":4,"path":"objects/OBJ_wall_right/OBJ_wall_right.yy",},
+  ],
+}
